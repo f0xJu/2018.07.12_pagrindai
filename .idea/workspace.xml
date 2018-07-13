@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="139c95bb-b38c-40c6-9703-608dd6db43a7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/second/SecondTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/second/ThirdTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/second/ThirdTask.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,29 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Uzduotis2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Namai/Uzduotis2.java">
+      <file leaf-file-name="ThirdTask.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/second/ThirdTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="39" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FirstTask.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/days/first/FirstTask.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SecondTask.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/second/SecondTask.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="515">
+              <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -67,6 +48,7 @@
         <option value="$PROJECT_DIR$/src/Namai/kazkas.java" />
         <option value="$PROJECT_DIR$/src/Namai/Uzduotis3.java" />
         <option value="$PROJECT_DIR$/src/second/SecondTask.java" />
+        <option value="$PROJECT_DIR$/src/second/ThirdTask.java" />
       </list>
     </option>
   </component>
@@ -151,7 +133,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SecondTask">
+  <component name="RunManager" selected="Application.ThirdTask">
     <configuration name="FirstTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="days.first.FirstTask" />
       <module name="Sarunas" />
@@ -174,13 +156,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Uzduotis2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Namai.Uzduotis2" />
+    <configuration name="ThirdTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second.ThirdTask" />
       <module name="Sarunas" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Namai.*" />
+          <option name="PATTERN" value="second.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,19 +231,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Uzduotis2" />
       <item itemvalue="Application.Uzduotis3" />
       <item itemvalue="Application.kazkas" />
       <item itemvalue="Application.FirstTask" />
       <item itemvalue="Application.SecondTask" />
+      <item itemvalue="Application.ThirdTask" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThirdTask" />
         <item itemvalue="Application.SecondTask" />
         <item itemvalue="Application.Uzduotis3" />
         <item itemvalue="Application.FirstTask" />
         <item itemvalue="Application.kazkas" />
-        <item itemvalue="Application.Uzduotis2" />
       </list>
     </recent_temporary>
   </component>
@@ -278,12 +260,12 @@
       <workItem from="1531412538220" duration="7037000" />
       <workItem from="1531431953385" duration="280000" />
       <workItem from="1531475304397" duration="8926000" />
-      <workItem from="1531495302638" duration="4582000" />
+      <workItem from="1531495302638" duration="7738000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20825000" />
+    <option name="totallyTimeSpent" value="23981000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -435,8 +417,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/second/SecondTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="85">
+          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/second/ThirdTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
         </state>
       </provider>
     </entry>
