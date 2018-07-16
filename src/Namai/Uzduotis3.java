@@ -12,7 +12,8 @@ public class Uzduotis3 {
         System.out.println("Iveskite skaiciu");
         int size = scanner.nextInt();
         for (int i = 0; i < size; i++);
-       Integer numb;
+
+
         if (size > 0){
             System.out.println("Iveskite sekanti skaiciu");
         }else{
