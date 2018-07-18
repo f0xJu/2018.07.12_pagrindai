@@ -1,4 +1,4 @@
-package days.first.days.third;
+package Third;
 
 import Utils.NumberUtils;
 
@@ -11,7 +11,7 @@ public class FifthTask {
         double atstumas = NumberUtils.getCorrectNumber(scanner, "Irasykite nuvaziuota atstuma");
         double kuras = NumberUtils.getCorrectNumber(scanner, "Irasykite sunaudoto kuro kieki");
 
-        double result = (kuras * 100) / atstumas;
+        double result = sanaudos(atstumas, kuras);
 
         System.out.println("Jusu kuro sanaudos vienam KM yra : "+ result);
 

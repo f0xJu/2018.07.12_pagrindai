@@ -1,4 +1,4 @@
-package days.first.days.third;
+package Third;
 
 import Utils.NumberUtils;
 
